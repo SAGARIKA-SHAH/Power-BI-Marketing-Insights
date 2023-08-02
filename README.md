@@ -4,7 +4,7 @@
 -	RoAS = DIVIDE(SUM('amazon_marketing_stream_data '[attributed_sales_7d]), SUM('amazon_marketing_stream_data '[cost]), 0) is the DAX formula.
 
 2. How does the sales performance vary across different product categories? Present your findings in a suitable chart.
-=Product mattress has the most attributed sales w
+=Product mattress has the most attributed sales.
 
 3. How does each campaign behave and each item behave hourly?
 =Bar chart for  sales vs Product and category is created over time two different bar charts for comparision.
