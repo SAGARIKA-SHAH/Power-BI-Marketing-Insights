@@ -24,14 +24,12 @@
 8. A sudden change in the dataset format occurs, making it incompatible with the existing Power BI model. 
 How would you handle this situation while maintaining progress on the dashboard creation?
 =To update the data source path in Power BI to the new folder, follow these steps:
-
-1. Open Power BI and open the report or data model that requires the data source path update.
-2. Click on "File" in the top-left corner of the window.
-3. Select "Options and settings" from the menu.
-4. In the options dialog box, choose "Data source settings" from the left-hand side menu.
-5. Locate the data source that needs to be updated in the list of connections.
-6. Click on "Change Source" for the relevant data source.
-7. A new dialog box will appear. Here, you can copy the new folder's data source path.
-8. Paste the new folder's data source path into the dialog box and click "OK" to confirm the changes.
-
+  Open Power BI and open the report or data model that requires the data source path update.
+ Click on "File" in the top-left corner of the window.
+ Select "Options and settings" from the menu.
+ In the options dialog box, choose "Data source settings" from the left-hand side menu.
+ Locate the data source that needs to be updated in the list of connections.
+ Click on "Change Source" for the relevant data source.
+ A new dialog box will appear. Here, you can copy the new folder's data source path.
+ Paste the new folder's data source path into the dialog box and click "OK" to confirm the changes.
 By following these steps, you will successfully update the data source path to the new folder in Power BI, allowing your report or data model to access the updated data.
